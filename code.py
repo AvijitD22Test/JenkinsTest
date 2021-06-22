@@ -1,3 +1,2 @@
 import os
-
-os.system("firefox")
+os.system("pip3 list")
