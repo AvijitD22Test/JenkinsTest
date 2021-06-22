@@ -1,3 +1,3 @@
-x = 100
-print(x)
-print("This is jenkins Test .....")
+import os
+
+os.system("firefox")
