@@ -1,2 +1,2 @@
 import os 
-os.system("ping goo.gl")
+os.system("cat /etc/group")
